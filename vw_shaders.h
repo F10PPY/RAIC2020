@@ -13,7 +13,7 @@
 
 class Shader
 {
-    const std::string prefix="../../shaders/";
+    const std::string prefix="shaders/";
 
 public:
     unsigned int ID;
