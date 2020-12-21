@@ -15,7 +15,7 @@ bool vw::prepareText()
     }
 
     // find path to font
-    std::string font_name = ("../../fonts/Antonio-Light.ttf");
+    std::string font_name = ("fonts/Antonio-Light.ttf");
   //  std::string font_name = ("../../fonts/OCRAEXT.ttf");
  //   std::string font_name = ("../../fonts/DejaVuSansMono.ttf");
 
